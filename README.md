@@ -5,4 +5,10 @@ i am tuhin davil tuh1n /nasa off the king1
 hd
 haps
 hack
-fb
+pkg install pip2
+pip2 install requests
+pip2 install mechanize
+git clone https://github.com/DAVIL-TUHIN/07-cyber
+cd DAVIL-TUHIN
+python DAVIL-TUHIN.py
+https://github.com/daviltuhin
